@@ -1,3 +1,4 @@
 site_packages/
 .ipynb_checkpoints/
-
+__pycache__/
+*.pyc
