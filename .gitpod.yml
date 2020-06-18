@@ -1,0 +1,8 @@
+ports:
+- port: 8050
+  onOpen: open-preview
+- port: 8888
+  onOpen: open-browser
+tasks:
+- init: /workspace/coursera_nlp/run.sh
+  command: cp -r /workspace/coursera_nlp/.jupyter /home/gitpod/
