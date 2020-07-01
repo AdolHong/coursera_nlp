@@ -4,3 +4,5 @@
 pip3 install jupyter pandas matplotlib # install jupyter notebook, pandas(and dependant numpy), matplotlib
 pip3 install nltk
 pip3 install matplotlib
+pip3 install gensim
+pip3 install sklearn
